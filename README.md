@@ -1,1 +1,1 @@
-# Desafio_Rocketseat_Pagina_de_Receita
+Este repositório é de um desafio proposto pela a Rocketseat, mais especificamente o Desafios "Página de Receita" (https://app.rocketseat.com.br/discover/challenges/cookbook). Neste desafio, foi proposto a criação de uma pagina de receitas de Waffles simples, sem muitos detalhes e responsividade.
